@@ -1,8 +1,6 @@
 これは、Next.js で `react-markdown` を使い Markdown、GFM、TeX を表示するサンプルです。
-## ブログ
 
-[]
-## Getting Started
+# Getting Started
 
 ```bash
 $ yarn
