@@ -1,6 +1,10 @@
 これは、Next.js で `react-markdown` を使い Markdown、GFM、TeX を表示するサンプルです。
 
-# Getting Started
+## ブログ
+
+[Next.jsでMarkdownを表示](https://zenn.dev/hayato94087/articles/649e8d817165d8)を確認ください。
+
+## Getting Started
 
 ```bash
 $ yarn
